@@ -23,3 +23,4 @@ public class Q6 {
         System.out.println(durum?"geçti":"kaldı");
            }
 }
+//www.patika.dev
